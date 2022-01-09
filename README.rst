@@ -14,17 +14,16 @@ moji_notif
    :target: https://github.com/yumyumb612/moji_notif/blob/main/LICENSE
    :alt: MIT License
 
-Moji sends text and fun facts from different APIs wit da use of a notification deamon.
+Moji sends text and fun facts from different APIs wit da use of a notification deamon. Can be runned via dmenu or rofi.
 
-Key Features
+API options
 -------------
 
-- Sends text and fun facts from different APIs
-  - history (history of wat da present month and day)
-  - number_trivia (number trivias)
-  - cat_fact (fun facts about cats! meow 🐱)
-  - advice ('useful' advices somtimes nonsense :3)
-  - random 
+- history (history of wat da present month and day)
+- number_trivia (number trivias)
+- cat_fact (fun facts about cats! meow 🐱)
+- advice ('useful' advices somtimes nonsense :3)
+- random 
 
 Installing
 ----------
