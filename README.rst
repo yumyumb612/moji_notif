@@ -37,7 +37,7 @@ To install, you can just run the following command:
 
     $ git clone https://github.com/yumyumb612/moji_notif.git
     $ cd moji_notif
-    $ sh install.sh (might need sudo to put da runner in /urs/bin)
+    $ sh install.sh # might need sudo to put da runner in /urs/bin
 
 Required Packages
 ~~~~~~~~~~~~~~~~~~
