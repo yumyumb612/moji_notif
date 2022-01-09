@@ -43,7 +43,7 @@ except Exception as error:
     print(f"""
     MOJI: OHNOES!1!! Moji got an error!
     MOJI: pls fix
-    MOJI: or raise an issue here: https://github.com/yumyumb612\n
+    MOJI: or raise an issue here: https://github.com/yumyumb612/moji_notif/issues\n
     MOJI: dis da error `{error}`
     """)
     system(f"notify-send 'MOJI ENCOUNTERED AN ERROR!1!!' 'Pls tryna run <i><u>~/.config/moji_notif/main.py</u></i> manually to see da error.' -u critical -i {settings.icon_path} &")
