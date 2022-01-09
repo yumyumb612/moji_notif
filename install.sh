@@ -24,7 +24,7 @@ if [[ -d ~/.config/moji_notif ]] && [ "$(ls -A ~/.config/moji_notif)" ] && [[ -f
    printf "\nMOJI: also make sure dat u hav python, dunst or any notification deamon coz i will be using notify-send, and mpv installed in ur system. also u need internet connection."
    printf "\nMOJI: U can uninstall me anytime by just running my uninstall.sh script. ENJOY! :D\n"
 else
-   printf "\nMOJI: Smthn went wrong, moji_notif was not installed. Pls fix and try again or raise an issue here: <link>\n"
+   printf "\nMOJI: Smthn went wrong, moji_notif was not installed. Pls fix and try again or raise an issue here: https://github.com/yumyumb612/moji_notif/issues\n"
 fi
 
 exit 0
