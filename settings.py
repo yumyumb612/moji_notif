@@ -4,7 +4,6 @@
 #   - cat_fact (fun facts about cats! meow cat)
 #   - advice ('useful' advices somtimes nonsense :3)
 #   - random
-
 api = ""
 
 
