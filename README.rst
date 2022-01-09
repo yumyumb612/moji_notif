@@ -16,7 +16,7 @@ moji_notif
 
 Moji sends text and fun facts from different APIs wit da use of a notification deamon. Can be runned via dmenu or rofi.
 
-ps. for linux only
+*ps. for linux only*
 
 API options
 -----------
