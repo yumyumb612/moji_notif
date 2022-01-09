@@ -20,7 +20,7 @@ API options
 -----------
 Settings: ~/.config/moji_notif/settings.py
 
-- history (history of wat da present month and day)
+- history (history of wat happend dis present month and day)
 - number_trivia (number trivias)
 - cat_fact (fun facts about cats! meow 🐱)
 - advice ("useful" advices somtimes nonsense :3)
