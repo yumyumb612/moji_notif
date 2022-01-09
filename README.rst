@@ -19,12 +19,12 @@ Moji sends text and fun facts from different APIs wit da use of a notification d
 Key Features
 -------------
 
-- Sends text and fun facts from different APIs:
-  * history (history of wat da present month and day)
-  * number_trivia (number trivias)
-  * cat_fact (fun facts about cats! meow 🐱)
-  * advice ('useful' advices somtimes nonsense :3)
-  * random 
+- Sends text and fun facts from different APIs
+  - history (history of wat da present month and day)
+  - number_trivia (number trivias)
+  - cat_fact (fun facts about cats! meow 🐱)
+  - advice ('useful' advices somtimes nonsense :3)
+  - random 
 
 Installing
 ----------
