@@ -43,11 +43,16 @@ Required Packages
 ~~~~~~~~~~~~~~~~~~
 
 * dunst or any notification deamon (moji uses notify-send)
-* mpv (ringtone - it can be disabled)
+* mpv (for ringtone - it can be disabled)
 
 Screenshots
 -----------
-
+.. image:: https://github.com/yumyumb612/moji_notif/blob/main/Screenshots/Screenshot1.png?raw=true
+   :target: https://github.com/yumyumb612/moji_notif/blob/main/Screenshots/Screenshot1.png?raw=true
+   :alt: Screenshot1
+.. image:: https://github.com/yumyumb612/moji_notif/blob/main/Screenshots/Screenshot2.png?raw=true
+   :target: https://github.com/yumyumb612/moji_notif/blob/main/Screenshots/Screenshot2.png?raw=true
+   :alt: Screenshot2
 
 APIs Used
 ---------
