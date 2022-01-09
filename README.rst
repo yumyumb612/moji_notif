@@ -20,11 +20,11 @@ Key Features
 -------------
 
 - Sends text and fun facts from different APIs:
-  - history (history of wat da present month and day)
-  - number_trivia (number trivias)
-  - cat_fact (fun facts about cats! meow 🐱)
-  - advice ('useful' advices somtimes nonsense :3)
-  - random 
+  * history (history of wat da present month and day)
+  * number_trivia (number trivias)
+  * cat_fact (fun facts about cats! meow 🐱)
+  * advice ('useful' advices somtimes nonsense :3)
+  * random 
 
 Installing
 ----------
