@@ -16,8 +16,9 @@ moji_notif
 
 Moji sends text and fun facts from different APIs wit da use of a notification deamon. Can be runned via dmenu or rofi.
 
-API options `~/.config/moji_notif/settings.py`
--------------
+API options
+-----------
+`~/.config/moji_notif/settings.py`
 
 - history (history of wat da present month and day)
 - number_trivia (number trivias)
