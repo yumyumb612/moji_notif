@@ -30,7 +30,6 @@ Settings: ~/.config/moji_notif/settings.py
 
 Installing
 ----------
-
 **Python 3.8 or higher is required**
 
 To install, you can just run the following command:
@@ -43,7 +42,6 @@ To install, you can just run the following command:
 
 Required Packages
 ~~~~~~~~~~~~~~~~~~
-
 * dunst or any notification deamon (moji uses notify-send)
 * mpv (for ringtone - it can be disabled)
 
@@ -58,7 +56,6 @@ Screenshots
 
 APIs Used
 ---------
-
 - `numbersapi <http://numbersapi.com>`_
 - `cat-fact <https://cat-fact.herokuapp.com>`_
 - `adviceslip <https://api.adviceslip.com>`_
