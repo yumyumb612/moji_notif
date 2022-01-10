@@ -54,6 +54,9 @@ Screenshots
 .. image:: https://github.com/yumyumb612/moji_notif/blob/main/Screenshots/Screenshot2.png?raw=true
    :target: https://github.com/yumyumb612/moji_notif/blob/main/Screenshots/Screenshot2.png?raw=true
    :alt: Screenshot2
+.. image:: https://github.com/yumyumb612/moji_notif/blob/main/Screenshots/Screenshot3.png?raw=true
+   :target: https://github.com/yumyumb612/moji_notif/blob/main/Screenshots/Screenshot3.png?raw=true
+   :alt: Screenshot3
 
 APIs Used
 ---------
