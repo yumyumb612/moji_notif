@@ -18,16 +18,17 @@ Moji sends text and fun facts from different APIs wit da use of a notification d
 
 *ps. for linux only*
 
-API options
+Settings
 -----------
-Settings: ~/.config/moji_notif/settings.py
+Location: ~/.config/moji_notif/settings.py
 
-- history (history of wat happend dis present month and day)
-- number_trivia (random number trivias)
-- cat_fact (fun facts about cats! meow 🐱)
-- advice ("useful" advices somtimes nonsense :3)
-- random 
-
+The value for **api** can be one of the followings:
+   - **history** - history of wat happend dis present month and day
+   - **number_trivia** - random number trivias
+   - **cat_fact** - fun facts about cats! meow 🐱
+   - **advice** - "useful" advices, but somtimes nonsense :3
+   - **random**
+   
 Installing
 ----------
 **Python 3.8 or higher is required**
