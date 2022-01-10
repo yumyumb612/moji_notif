@@ -1,4 +1,4 @@
-#   da value for api can be one of the followings: 
+#   da value for api can only be one of the followings: 
 #   * history - history of wat happend dis present month and day
 #   * number_trivia - random number trivias
 #   * cat_fact - fun facts about cats! meow cat
