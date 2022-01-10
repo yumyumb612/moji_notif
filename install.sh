@@ -1,7 +1,6 @@
 #!/bin/bash
 
-cat moji.txt
-
+cat Assets/moji.txt
 printf "\n\nMOJI: Elo there $USER!"
 printf "\nMOJI: My naem is MOJI :D now am currently trying to install moji_notif and i need sudo to copy my runner in /usr/bin so dat u can run me anywer.\n"
 chmod +x moji_notif
