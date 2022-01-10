@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cat moji.txt
+cat Assets/moji.txt
 printf "\n\nMOJI: Elo again $USER!"
 printf "\nMOJI: Am about to uninstall moji_notif and i need sudo to remove my runner from /usr/bin\n"
 if [[ -f /usr/bin/moji_notif ]]; then
