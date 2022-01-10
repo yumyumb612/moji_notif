@@ -22,7 +22,7 @@ Settings
 -----------
 Location: ~/.config/moji_notif/settings.py
 
-The value for **api** can only be one of the followings:
+The value for **api** can only be one of the following:
    - **history** - history of wat happend dis present month and day
    - **number_trivia** - random number trivias
    - **cat_fact** - fun facts about cats! meow 🐱
