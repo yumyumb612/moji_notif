@@ -14,7 +14,7 @@ moji_notif
    :target: https://github.com/yumyumb612/moji_notif/blob/main/LICENSE
    :alt: MIT License
 
-Moji sends text and fun facts from different APIs wit da use of a notification deamon. Can be runned via dmenu or rofi.
+Moji sends text and fun facts from different APIs wit da use of a notification deamon. Can be runned via `dmenu <http://tools.suckless.org/dmenu/>`_ or `rofi <https://github.com/davatorium/rofi>`_.
 
 *ps. for linux only*
 
@@ -43,8 +43,8 @@ To install, you can just run the following command:
 
 Required Packages
 ~~~~~~~~~~~~~~~~~~
-* dunst or any notification deamon (moji uses notify-send)
-* mpv (for ringtone - it can be disabled)
+* `dunst <https://dunst-project.org/>`_ or any notification deamon (moji uses `notify-send <https://www.commandlinux.com/man-page/man1/notify-send.1.html>`_)
+* `mpv <https://mpv.io/>`_ (for ringtone - it can be disabled)
 
 Screenshots
 -----------
