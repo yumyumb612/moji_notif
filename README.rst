@@ -8,7 +8,7 @@ moji_notif
    :target: https://github.com/yumyumb612/moji_notif
    :alt: Forks
 .. image:: https://img.shields.io/github/stars/yumyumb612/moji_notif
-   :target: https://github.com/yumyumb612/moji_notif
+   :target: https://github.com/yumyumb612/moji_notif/stargazers
    :alt: Stars
 .. image:: https://img.shields.io/github/license/yumyumb612/moji_notif
    :target: https://github.com/yumyumb612/moji_notif/blob/main/LICENSE
